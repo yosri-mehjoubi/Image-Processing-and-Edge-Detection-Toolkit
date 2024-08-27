@@ -4,6 +4,10 @@
  Image Processing and Edge Detection Toolkit
 This repository contains a collection of image processing techniques and edge detection algorithms implemented using Python. The toolkit provides a graphical user interface (GUI) built with Tkinter, allowing users to load images and apply various image processing operations, including custom implementations of popular edge detection operators.
 
+
+![Uploading image.png…]()
+
+
 ✨ Features
 🧰 Custom Convolution Function:
 A general-purpose convolution function that can be used to apply various filters to an image.
